@@ -1,0 +1,26 @@
+<annotation>
+	<folder>green</folder>
+	<filename>61.jpg</filename>
+	<path>/home/xmy/PycharmProjects/test/paddle/proj6_lightContrl/src/green/61.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>2</ymin>
+			<xmax>574</xmax>
+			<ymax>34</ymax>
+		</bndbox>
+	</object>
+</annotation>
