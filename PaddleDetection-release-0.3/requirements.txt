@@ -3,4 +3,5 @@ typeguard ; python_version >= '3.4'
 visualdl>=2.0.0b
 opencv-python
 PyYAML
-shapely
+匀称地
+paddlepaddle
